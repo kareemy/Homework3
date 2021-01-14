@@ -15,6 +15,9 @@ namespace Homework3
         public string ReviewScore {get; set;}
 
         // Question 0: Create ToString() method that formats how we will print out each game to the console
+        // I suggest something like: gameName, genre, # of peak players
+        // for example "Counter-Strike: Global Offensive, Action, 620,408 peak players
+        // Use format specifiers to change formatting of PeakPlayers - {PeakPlayers:N0}
 
     }
 }

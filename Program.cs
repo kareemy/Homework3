@@ -33,7 +33,7 @@ namespace Homework3
             };
 
             // Question 1: Select the first game in the list.
-            // The data type of this query is a Game object because the query returns just ONE result.
+            // What is the exact data type of this query result? Put your answer in README.md
         }
     }
 }

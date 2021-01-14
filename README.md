@@ -56,7 +56,7 @@ Ubisoft - 1 game(s)
 5. Or you can push your changes to GitHub using the Terminal:
     ```
     git add -A
-    git commit -m "Your commit message"
+    git commit -m "Ready for grading"
     git push
     git status
     ```
